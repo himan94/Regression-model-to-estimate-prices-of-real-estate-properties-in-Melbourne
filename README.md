@@ -10,3 +10,5 @@ Developing a regression model in python to estimate/predict the prices of real e
 •	Linear regression was used to analyse the impact(weight) of these factors as well as estimate the price of a new property.
 
 The files consist of xml, json, txt and shape files
+
+Please check Regression_housing_model.ipynb to view further details
