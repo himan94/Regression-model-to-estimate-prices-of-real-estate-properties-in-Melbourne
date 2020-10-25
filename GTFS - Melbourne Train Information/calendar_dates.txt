@@ -1,0 +1,3 @@
+﻿service_id,date,exception_type
+"T0","20151103","2"
+"T0+a5","20151103","2"
